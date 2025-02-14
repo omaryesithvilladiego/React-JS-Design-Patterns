@@ -8,6 +8,7 @@ Características principales:
 ✅ Autenticación y perfiles: Permite a los dueños crear perfiles con información sobre sus perros.
 ✅ Mensajería en tiempo real: Facilita la comunicación entre los dueños interesados en un emparejamiento.
 ✅ Sistema de filtros y preferencias: Encuentra coincidencias basadas en raza, edad, tamaño y otros factores.
+✅ Código limpio y estructurado: Uso de ESLint y Prettier para mantener buenas prácticas y asegurar calidad en el código.
 
 Tecnologías utilizadas:
 Frontend: Next.js, React, Material-UI
@@ -15,5 +16,5 @@ Backend: NestJS
 Base de datos: MongoDB
 Geolocalización: API de mapas (Google Maps, OpenStreetMap, etc.)
 Autenticación: JWT / OAuth
+Calidad de código: ESLint, Prettier
 Es una plataforma pensada para los amantes de los perros que buscan socializar y encontrar compañeros ideales para sus mascotas. 🐾✨
-
